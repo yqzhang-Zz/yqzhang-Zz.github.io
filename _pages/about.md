@@ -276,19 +276,19 @@ TPAMI'22</span>
 <span class='anchor' id="educations"></span>
 
 # 👨‍🎓 Educations
-- *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）
-- *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
-- *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
-- *2006/09 - 2009/07*: 深圳市红岭中学，理科班
+- *2014/09 - 2019/11*: Ph.D. in Computer Science, Hong Kong Baptist University (Supervisor: Prof. Yiu-ming Cheung (IEEE Fellow, AAAS Fellow, and IAPR Fellow, Changjiang Chair Professor)
+- *2013/09 - 2014/11*: M.Sc. in Computer Science, Hong Kong Baptist University
+- *2009/09 - 2013/07*: B.Eng. in Biomedical Engineering, South China University of Technology
+- *2006/09 - 2009/07*: Science Class, Shenzhen Hongling High School
 
 <span class='anchor' id="invited-talks"></span>
 
 # 💬 Invited Talks
-- *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
-- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
-- *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
-- *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
-- *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
+- *2025/12*: Clustering Analysis of Complex Distributed Data under Dynamic Environments, Shanxi University
+- *2024/12*: Clustering Complex Data Under Dynamic Environments, Northeastern University/State Key Laboratory of Synthetical Automation for Process Industries
+- *2024/12*: Clustering Analysis of Complex Data under Dynamic Environments, Guangdong University of Technology
+- *2023/11*: Learning from Complex Data with Cross-Coupled Heterogeneous Attributes, Southern University of Science and Technology (SUSTech)
+- *2021/04*: Insights into AI Research: A Dual Perspective from Authors and Reviewers, Guangdong University of Technology
 <br>
 <br>
 <br>
