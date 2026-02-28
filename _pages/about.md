@@ -19,16 +19,18 @@ redirect_from:
 
 # 👨‍🏫 About Me
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。
+I am currently a Professor and Associate Head of the Department of Computer Science and Technology at Guangdong University of Technology (GDUT). I received my B.Eng. degree from South China University of Technology (SCUT) in 2013, followed by M.Sc. and Ph.D. degrees from Hong Kong Baptist University (HKBU) in 2014 and 2019, respectively (Both supervised by Prof. Yiu-ming Cheung (张晓明), IEEE/AAAS/IAPR Fellow, Changjiang Chair Professor). Following a postdoctoral fellowship at HKBU in 2019, I joined GDUT in 2020, where I was promoted to Associate Professor in 2022 and Professor in 2026.
+
+My research focuses on **Machine Learning** (ML) and **Data Science**. Specifically, I collaborate closely with Yang Lu, Mengke Li, and Yuzhu Ji on research topics including: **ML on Heterogeneous Data**, **Unsupervised Federated Learning**, **Non-stationary Data Analysis**, the application of Large Language Models (LLMs) within these domains, and AI for Science (AI4S). I have published over 90 papers in top-tier journals and conferences, such as **TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, and AAAI**.
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ' target='_blank'><img src="https://img.shields.io/badge/citations-805-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
 -->
 
-主持**国家自然科学基金2项**（2024、2021）和省部级科研项目5项，入选广东特支计划（青年拔尖人才，2026）和深圳市高层次人才奖励计划（C类，2016）。现担任SCI期刊*IEEE Transactions on Emerging Topics in Computational Intelligence*（TETCI）副主编（Associate Editor）。在学术和人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（ISMIS’18，DOCS’24，2020年IEEE CIS论文评选），教育部-华为“智能基座”先锋教师称号等。
+Currently, I serve as an Associate Editor for IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). My academic and teaching contributions have been recognized with the Second Prize of the Guangdong Provincial Science and Technology Progress Award (2023), several Best Paper Awards (ISMIS’18, DOCS’24, 2020 IEEE CIS), and the MOE-Huawei "Intelligent Base" Pioneer Teacher Award.
 
-本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（招生详情和课题组简介见[关于OMG](/zh-OMG/)）。
+Our Open-environment Machine learning Group (OMG) is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to [About OMG](/zh-OMG/)).
 
 <span class='anchor' id="news"></span>
 
