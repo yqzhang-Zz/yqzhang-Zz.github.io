@@ -197,7 +197,7 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 </div>
 </div>
 -->
-
+<br>
 **List of Representative Publications**
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
