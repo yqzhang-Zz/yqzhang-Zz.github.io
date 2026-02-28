@@ -264,7 +264,7 @@ TPAMI'22</span>
 - *2024/08*: Second Prize of Guangdong Provincial Science and Technology Progress Award (2023)
 - *2024/08*: Best Paper Award, The 6th IEEE International Conference on Data-driven Optimization of Complex Systems (DOCS 2024)
 - *2022/09*: MOE-Huawei "Intelligent Base" Pioneer Teacher Award
-- *2021/06*: First Prize (Ranked 1st), Young Teachers' Teaching Competition, School of Computer Science, Guangdong University of Technology
+- *2021/06*: First Prize, Young Teachers' Teaching Competition, School of Computer Science, Guangdong University of Technology
 - *2019/12*: Research Performance Award, Department of Computer Science, Hong Kong Baptist University
 - *2019/08*: Champion, Postgraduate Research Paper Competition, IEEE Computational Intelligence Society (CIS) Hong Kong Chapter
 - *2018/10*: Best Student Paper Award, The 24th International Symposium on Methodologies for Intelligent Systems (ISMIS 2018), Springer
