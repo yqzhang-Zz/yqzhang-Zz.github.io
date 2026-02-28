@@ -253,7 +253,7 @@ TPAMI'22</span>
 [Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
-  ... ... Full list please visit [DBLP](https://dblp.org/pid/125/5587-6.html)  &#124 [Google Scholar](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl) ... ...
+  ... ... For a full list of publications, please visit [DBLP](https://dblp.org/pid/125/5587-6.html)  &#124; [Google Scholar](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl) ... ...
 
 <span class='anchor' id="honors-and-awards"></span>
 
