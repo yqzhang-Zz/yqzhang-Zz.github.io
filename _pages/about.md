@@ -44,7 +44,7 @@ redirect_from:
 # 📝 Publications
 
 **Sorted by Research Topics**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">ML on Heterogeneous Data</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">ML on Heterogeneous Data</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
 - **Heterogeneous Feature Representation Learning**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -62,7 +62,7 @@ TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
 
-- **Distance Metric for Heterogeneous Featured Data**<br>
+- **Distance Metric for Heterogeneous Features**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
 <!--
