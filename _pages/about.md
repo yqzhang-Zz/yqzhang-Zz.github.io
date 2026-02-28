@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨‍🏫 About Me
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🏫 About Me</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 
 I am currently a Professor and Associate Head of the Department of Computer Science and Technology at [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/). I received my B.Eng. degree from [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/) in 2013, followed by M.Sc. and Ph.D. degrees from [Hong Kong Baptist University (HKBU)](https://www.hkbu.edu.hk/en.html) in 2014 and 2019, respectively, supervised by [Yiu-ming Cheung (张晓明)](https://www.comp.hkbu.edu.hk/~ymc/) (IEEE/AAAS/IAPR Fellow, Changjiang Chair Professor, Chair Professor in Artificial Intelligence). Following a postdoctoral fellowship at HKBU in 2019, I joined GDUT in 2020, where I was promoted to Associate Professor in 2022 and Professor in 2026.
 
@@ -35,7 +39,12 @@ Our **Open-environment Machine learning Group (OMG)** is constantly looking for 
 
 <span class='anchor' id="news"></span>
 
-# 🔥 News
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🔥 News</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 - *2026/02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou!
 - *2026/01*: &nbsp;🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
 - *2026/01*: &nbsp;🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
@@ -44,7 +53,11 @@ Our **Open-environment Machine learning Group (OMG)** is constantly looking for 
 
 <span class='anchor' id="publications"></span>
 
-# 📝 Publications
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📝 Publications</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">ML on Heterogeneous Data</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
@@ -257,7 +270,11 @@ TPAMI'22</span>
 
 <span class='anchor' id="honors-and-awards"></span>
 
-# 🏆 Honors & Awards
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🏆 Honors & Awards</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 <!-- 
 - *2026/02*: IEEE汇刊TETCI优秀编委
 -->
@@ -278,7 +295,11 @@ TPAMI'22</span>
 
 <span class='anchor' id="educations"></span>
 
-# 👨‍🎓 Educations
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🎓 Educations</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 - *2014/09 - 2019/11*: Ph.D. in Computer Science, Hong Kong Baptist University (Supervisor: Prof. Yiu-ming Cheung (IEEE Fellow, AAAS Fellow, and IAPR Fellow, Changjiang Chair Professor)
 - *2013/09 - 2014/11*: M.Sc. in Computer Science, Hong Kong Baptist University
 - *2009/09 - 2013/07*: B.Eng. in Biomedical Engineering, South China University of Technology
@@ -286,7 +307,12 @@ TPAMI'22</span>
 
 <span class='anchor' id="invited-talks"></span>
 
-# 💬 Invited Talks
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💬 Invited Talks</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 - *2025/12*: Clustering Analysis of Complex Distributed Data under Dynamic Environments, Shanxi University
 - *2024/12*: Clustering Complex Data Under Dynamic Environments, Northeastern University/State Key Laboratory of Synthetical Automation for Process Industries
 - *2024/12*: Clustering Analysis of Complex Data under Dynamic Environments, Guangdong University of Technology
