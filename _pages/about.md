@@ -43,7 +43,6 @@ redirect_from:
 
 # 📝 Publications
 
-**Sorted by Research Topics**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">ML on Heterogeneous Data</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
 - **Heterogeneous Feature Representation Learning**<br>
