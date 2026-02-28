@@ -200,7 +200,7 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 </div>
 -->
 
-**Representative Publications**
+**List of Representative Publications**
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
@@ -252,7 +252,7 @@ TPAMI'22</span>
 [Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
-  ... ... Full list please visit [DBLP](https://dblp.org/pid/125/5587-6.html) &#124 and [Google Scholar](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl) ... ...
+  ... ... Full list please visit [DBLP](https://dblp.org/pid/125/5587-6.html)  &#124 [Google Scholar](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl) ... ...
 
 <span class='anchor' id="honors-and-awards"></span>
 
