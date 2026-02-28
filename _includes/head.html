@@ -16,4 +16,20 @@
 <meta http-equiv="cleartype" content="on">
 <head>
   <base target="_blank">
+
+<style>
+/* 覆盖模板默认样式，实现头像边缘羽化渐隐效果 */
+.author__avatar img {
+    /* 彻底移除模板自带的白色实线边框和底色 */
+    border: none !important;
+    background: transparent !important;
+    padding: 0 !important; 
+
+    /* 核心代码：使用径向渐变遮罩实现边缘消失 */
+    -webkit-mask-image: radial-gradient(circle, black 75%, transparent 100%) !important;
+    mask-image: radial-gradient(circle, black 75%, transparent 100%) !important;
+}
+</style>
+  
+  
 </head>
