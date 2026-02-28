@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🏫 About Me
 
-I am currently a Professor and Associate Head of the Department of Computer Science and Technology at Guangdong University of Technology (GDUT). I received my B.Eng. degree from South China University of Technology (SCUT) in 2013, followed by M.Sc. and Ph.D. degrees from Hong Kong Baptist University (HKBU) in 2014 and 2019, respectively, supervised by [Yiu-ming Cheung (张晓明)](https://www.comp.hkbu.edu.hk/~ymc/) (IEEE/AAAS/IAPR Fellow, Changjiang Chair Professor, Chair Professor in Artificial Intelligence). Following a postdoctoral fellowship at HKBU in 2019, I joined GDUT in 2020, where I was promoted to Associate Professor in 2022 and Professor in 2026.
+I am currently a Professor and Associate Head of the Department of Computer Science and Technology at [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/). I received my B.Eng. degree from [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/) in 2013, followed by M.Sc. and Ph.D. degrees from [Hong Kong Baptist University (HKBU)](https://www.hkbu.edu.hk/en.html) in 2014 and 2019, respectively, supervised by [Yiu-ming Cheung (张晓明)](https://www.comp.hkbu.edu.hk/~ymc/) (IEEE/AAAS/IAPR Fellow, Changjiang Chair Professor, Chair Professor in Artificial Intelligence). Following a postdoctoral fellowship at HKBU in 2019, I joined GDUT in 2020, where I was promoted to Associate Professor in 2022 and Professor in 2026.
 
 My research focuses on **Machine Learning** (ML) and **Data Science**. Specifically, I collaborate closely with [Yang Lu (卢杨)](https://jasonyanglu.github.io/), Mengke Li (李梦柯), and [Yuzhu Ji (姬玉柱)](https://andrewchiyz.github.io/) on research topics including: **ML on Heterogeneous Data**, **Unsupervised Federated Learning**, **Non-stationary Data Analysis**. My research interests also inclue Large Language Models (LLMs) and AI for Science (AI4S). I have published over 90 papers in top-tier journals and conferences, including those in **TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, and AAAI**.
 
@@ -28,10 +28,10 @@ My research focuses on **Machine Learning** (ML) and **Data Science**. Specifica
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ' target='_blank'><img src="https://img.shields.io/badge/citations-805-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
 -->
 
-Currently, I serve as an Associate Editor for IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). My academic and teaching contributions have been recognized with the Second Prize of the Guangdong Provincial Science and Technology Progress Award (2023), several Best Paper Awards (ISMIS’18, DOCS’24, 2020 IEEE CIS), and the MOE-Huawei "Intelligent Base" Pioneer Teacher Award.
+Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emerging Topics in Computational Intelligence* (TETCI). My academic and teaching contributions have been recognized with the Second Prize of the Guangdong Provincial Science and Technology Progress Award (2023), several Best Paper Awards (ISMIS’18, DOCS’24, 2020 IEEE CIS), and the MOE-Huawei "Intelligent Base" Pioneer Teacher Award.
 
 <span style="color: red;">
-Our Open-environment Machine learning Group (OMG) is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to [About OMG](/zh-OMG/)).</span>
+Our **Open-environment Machine learning Group (OMG)** is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to [About OMG](/zh-OMG/)).</span>
 
 <span class='anchor' id="news"></span>
 
