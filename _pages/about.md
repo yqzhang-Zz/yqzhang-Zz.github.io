@@ -43,7 +43,7 @@ redirect_from:
 
 # 📝 Publications
 
-**研究方向**
+**Sorted by Research Topics**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
@@ -200,7 +200,7 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 </div>
 -->
 
-**论文列表**
+**Representative Publications**
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
@@ -252,7 +252,7 @@ TPAMI'22</span>
 [Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
-  ... ... 筛选展示10篇，完整论文列表请点[这里](/zh-publications/)或访问：[DBLP](https://dblp.org/pid/125/5587-6.html) &#124; [谷歌学术](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN) ... ...
+  ... ... Full list please visit [DBLP](https://dblp.org/pid/125/5587-6.html) &#124 and [Google Scholar](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl) ... ...
 
 <span class='anchor' id="honors-and-awards"></span>
 
