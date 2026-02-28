@@ -30,7 +30,8 @@ My research focuses on **Machine Learning** (ML) and **Data Science**. Specifica
 
 Currently, I serve as an Associate Editor for IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). My academic and teaching contributions have been recognized with the Second Prize of the Guangdong Provincial Science and Technology Progress Award (2023), several Best Paper Awards (ISMIS’18, DOCS’24, 2020 IEEE CIS), and the MOE-Huawei "Intelligent Base" Pioneer Teacher Award.
 
-Our Open-environment Machine learning Group (OMG) is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to [About OMG](/zh-OMG/)).
+<span style="color: red;">
+Our Open-environment Machine learning Group (OMG) is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to [About OMG](/zh-OMG/)).</span>
 
 <span class='anchor' id="news"></span>
 
