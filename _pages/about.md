@@ -272,7 +272,7 @@ TPAMI'22</span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🏆 Honors & Awards</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 <!-- 
