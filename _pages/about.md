@@ -257,17 +257,19 @@ TPAMI'22</span>
 # 🏆 Honors & Awards
 <!-- 
 - *2026/02*: IEEE汇刊TETCI优秀编委
-- *2026/01*: 广东工业大学优秀研究生导师
 -->
-- *2025/12*: 广东工业大学学报优秀编委
-- *2024/12*: ACM SIGKDD 2025 Excellent Reviewer
-- *2024/08*: 2023年度广东省科技进步二等奖
-- *2024/08*: IEEE第6届复杂系统数据驱动优化国际会议（DOCS 2024）最佳论文奖
-- *2022/09*: 教育部-华为智能基座先锋教师称号
-- *2021/06*: 广东工业大学计算机学院青年教师教学竞赛院赛一等奖（仅设一名）
-- *2019/12*: 香港浸会大学计算机科学系突出研究表现奖
-- *2019/08*: IEEE智能计算学会（香港）研究论文竞赛冠军
-- *2018/10*: Springer第24届国际智能系统方法研讨会（ISMIS 2018）最佳学生论文奖
+- *2026/01*: Outstanding Postgraduate Supervisor, Guangdong University of Technology
+- *2025/12*: Outstanding Editorial Board Member, Journal of Guangdong University of Technology
+- *2024/12*: Excellent Reviewer, ACM SIGKDD 2025
+- *2024/08*: Second Prize of Guangdong Provincial Science and Technology Progress Award (2023)
+- *2024/08*: Best Paper Award, The 6th IEEE International Conference on Data-driven Optimization of Complex Systems (DOCS 2024)
+- *2022/09*: MOE-Huawei "Intelligent Base" Pioneer Teacher Award
+- *2021/06*: First Prize (Ranked 1st), Young Teachers' Teaching Competition, School of Computer Science, Guangdong University of Technology
+- *2019/12*: Research Performance Award, Department of Computer Science, Hong Kong Baptist University
+- *2019/08*: Champion, Postgraduate Research Paper Competition, IEEE Computational Intelligence Society (CIS) Hong Kong Chapter
+- *2018/10*: Best Student Paper Award, The 24th International Symposium on Methodologies for Intelligent Systems (ISMIS 2018), Springer
+- *2014/06*: Merit Scholarship, Department of Computer Science, Hong Kong Baptist University
+- *2014/01*: Merit Scholarship, Department of Computer Science, Hong Kong Baptist University
 
 
 
