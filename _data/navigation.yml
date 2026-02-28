@@ -11,16 +11,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors & Awards"
     url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "About OMG"
     url: "/zh-OMG"
