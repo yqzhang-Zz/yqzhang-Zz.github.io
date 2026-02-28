@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨‍🏫 关于我
+# 👨‍🏫 About Me
 
 本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。
 
@@ -32,7 +32,7 @@ redirect_from:
 
 <span class='anchor' id="news"></span>
 
-# 🔥 新闻
+# 🔥 News
 - *2026/02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou!
 - *2026/01*: &nbsp;🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
 - *2026/01*: &nbsp;🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
@@ -41,7 +41,7 @@ redirect_from:
 
 <span class='anchor' id="publications"></span>
 
-# 📝 论文
+# 📝 Publications
 
 **研究方向**
 
@@ -256,7 +256,7 @@ TPAMI'22</span>
 
 <span class='anchor' id="honors-and-awards"></span>
 
-# 🏆 荣誉与获奖
+# 🏆 Honors & Awards
 <!-- 
 - *2026/02*: IEEE汇刊TETCI优秀编委
 - *2026/01*: 广东工业大学优秀研究生导师
@@ -275,7 +275,7 @@ TPAMI'22</span>
 
 <span class='anchor' id="educations"></span>
 
-# 👨‍🎓 教育背景
+# 👨‍🎓 Educations
 - *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）
 - *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
 - *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
@@ -283,7 +283,7 @@ TPAMI'22</span>
 
 <span class='anchor' id="invited-talks"></span>
 
-# 💬 特邀报告
+# 💬 Invited Talks
 - *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
 - *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
 - *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
