@@ -19,7 +19,7 @@ redirect_from:
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🏫 About Me</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
@@ -41,7 +41,7 @@ Our **Open-environment Machine learning Group (OMG)** is constantly looking for 
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🔥 News</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
@@ -55,7 +55,7 @@ Our **Open-environment Machine learning Group (OMG)** is constantly looking for 
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📝 Publications</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
@@ -297,7 +297,7 @@ TPAMI'22</span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🎓 Educations</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 - *2014/09 - 2019/11*: Ph.D. in Computer Science, Hong Kong Baptist University (Supervisor: Prof. Yiu-ming Cheung (IEEE Fellow, AAAS Fellow, and IAPR Fellow, Changjiang Chair Professor)
@@ -309,7 +309,7 @@ TPAMI'22</span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💬 Invited Talks</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
