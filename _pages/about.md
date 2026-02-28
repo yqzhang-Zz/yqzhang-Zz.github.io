@@ -78,7 +78,7 @@ TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
 
-- **Clustering of Data with Heterogeneous Distributions**<br>
+- **Heterogeneous Distribution Learning**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 <!--
