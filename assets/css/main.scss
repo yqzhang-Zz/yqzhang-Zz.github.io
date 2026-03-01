@@ -148,3 +148,5 @@ h1:before, .anchor:before {
     background-color: #4A90E2 !important;
     color: #FFFFFF !important; /* 确保文字依然是清晰的纯白 */
 }
+
+.site-subtitle, .author__bio, .masthead__subtitle { font-style: italic !important; }
