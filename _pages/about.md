@@ -313,11 +313,11 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *2025/12*: Clustering Analysis of Complex Distributed Data under Dynamic Environments, Shanxi University
-- *2024/12*: Clustering Complex Data Under Dynamic Environments, Northeastern University/State Key Laboratory of Synthetical Automation for Process Industries
-- *2024/12*: Clustering Analysis of Complex Data under Dynamic Environments, Guangdong University of Technology
+- *2025/12*: Clustering Analysis of Complex Distributed Data under Dynamic Environments, Shanxi University (SXU)
+- *2024/12*: Clustering Complex Data Under Dynamic Environments, Northeastern University (NEU) / State Key Laboratory of Synthetical Automation for Process Industries
+- *2024/12*: Clustering Analysis of Complex Data under Dynamic Environments, Guangdong University of Technology (GDUT)
 - *2023/11*: Learning from Complex Data with Cross-Coupled Heterogeneous Attributes, Southern University of Science and Technology (SUSTech)
-- *2021/04*: Insights into AI Research: A Dual Perspective from Authors and Reviewers, Guangdong University of Technology
+- *2021/04*: Insights into AI Research: A Dual Perspective from Authors and Reviewers, Guangdong University of Technology (GDUT)
 <br>
 <br>
 <br>
