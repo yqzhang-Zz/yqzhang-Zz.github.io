@@ -1,8 +1,8 @@
 # main links links
 main:
-
   - title: "<i class='fas fa-globe'></i> 中"
-    url: "https://yqzhang-zz.github.io/zh"
+    url: "/zh/"          
+    target: "_self"       
 
   - title: "About Me"
     url: "/#about-me"
@@ -23,4 +23,5 @@ main:
     url: "/#invited-talks"
 
   - title: "About OMG"
-    url: "/zh-OMG"
+    url: "/zh-OMG/"     
+    target: "_self"      
