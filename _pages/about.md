@@ -336,12 +336,21 @@ TPAMI'22</span>
 <br>
 <br>
 <br>
-<div style="text-align: center; margin-top: 50px; margin-bottom: 20px; color: #666; font-size: 0.9em;">
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <span id="busuanzi_container_site_pv" style="display:none;">
-    👀 Total Visits: <span id="busuanzi_value_site_pv" style="font-weight: bold; color: #0b5394;"></span>
-  </span>
-</div>
+<div style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
+  
+  <div style="display: flex; justify-content: center; width: 100%;">
+    <div style="width: 120px;"> 
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=lPtt2sUwH1MwEnQW4pcHVaruKWdriQxF0N9KIeqgnws"></script>
+    </div>
+  </div>
 
+  <div style="color: #666; font-size: 0.9em; margin-top: 15px;">
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_site_pv" style="display:none;">
+      👀 Total Visits: <span id="busuanzi_value_site_pv" style="font-weight: bold; color: #0b5394;"></span>
+    </span>
+  </div>
+
+</div>
 
 
