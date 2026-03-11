@@ -300,7 +300,8 @@ TPAMI'22</span>
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-- *2014/09 - 2019/11*: Ph.D. in Computer Science, Hong Kong Baptist University (Supervisor: Prof. Yiu-ming Cheung (IEEE Fellow, AAAS Fellow, and IAPR Fellow, Changjiang Chair Professor)
+- *2014/09 - 2019/11*: Ph.D. in Computer Science, Hong Kong Baptist University 
+<br><span style="font-size: 0.85em; color: #666;">(Supervisor: Yiu-ming Cheung (Chair Professor, IEEE Fellow, AAAS Fellow, and IAPR Fellow)</span>
 - *2013/09 - 2014/11*: M.Sc. in Computer Science, Hong Kong Baptist University
 - *2009/09 - 2013/07*: B.Eng. in Biomedical Engineering, South China University of Technology
 - *2006/09 - 2009/07*: Science Class, Shenzhen Hongling High School
