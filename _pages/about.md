@@ -61,55 +61,25 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">ML on Heterogeneous Data</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
-- **Heterogeneous Feature Representation Learning**<br>
+- **Heterogeneous Feature Data Cluster Analysis**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'26</span>](https://arxiv.org/abs/2511.09049)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
-<!--
+ICDCS'24</span>](https://arxiv.org/abs/2601.16491)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ESWA'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)
--->
+AAAI'20</span>](https://ojs.aaai.org/index.php/AAAI/article/view/6168)
+
+- **Heterogeneous Feature Data Representation Learning**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
-
-- **Distance Metric for Heterogeneous Features**<br>
+TPAMI'22</span>](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2021-3056510-publication-version.pdf)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
-<!--
-[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
--->
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
-
-- **Heterogeneous Distribution Learning**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
-<!--
-[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
--->
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
-<!--
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
--->
+IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
   
 </div>
 </div>
@@ -117,18 +87,18 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">Unsupervised Federated Learning</div><img src='images/Fed-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
 - **Federated Cluster Analysis**<br>
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'26</span>](https://arxiv.org/pdf/2601.17512)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+INS'25</span>](https://yqzhang-zz.github.io/zh-publications/papers/INS-Fed-Auto-k-HC.pdf)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-DOCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10704350)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11328086)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-INS'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0020025525010941)
+DOCS'24</span>](https://yqzhang-zz.github.io/zh-publications/papers/DOCS-24-FedCCL.pdf)
 
 - **Heterogeneous Federated Learning**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-CVPR'26</span>](xxx)
+CVPR'26</span>](#)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 CVPR'25</span>](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -142,23 +112,23 @@ TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/10373104)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">Non-stationary Data Analysis</div><img src='images/NSD-Analysis.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
-- **Time-series Data Analysis**<br>
+- **Time-series Data Analysis and Applications**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'26</span>](https://arxiv.org/abs/2511.17008)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 BIBM'25</span>](https://arxiv.org/abs/2510.12214)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'23</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA230625)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 PRICAI'25</span>](https://arxiv.org/abs/2510.15985)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ECAI'23</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA230625)
 
 - **Streaming Data & Concept Drift Analysis**<br>
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'26</span>](https://arxiv.org/abs/2603.06757)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TETCI'26</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
+TNNLS'25</span>](https://arxiv.org/pdf/2404.09243)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
   
