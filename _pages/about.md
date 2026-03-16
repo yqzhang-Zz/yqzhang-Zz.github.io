@@ -48,7 +48,7 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
 - *2026/02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou!
 - *2026/01*: &nbsp;🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
 - *2026/01*: &nbsp;🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
-- *2026/01*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)” (TNNLS, 2025) has been selected as a Highly Cited Paper by the ESI.
+- *2026/01*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as a Highly Cited Paper by the ESI.
 - *2025/12*: &nbsp;🎉 Two papers accepted by IoTJ.
 
 <span class='anchor' id="publications"></span>
@@ -77,7 +77,7 @@ SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TPAMI'22</span>](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2021-3056510-publication-version.pdf)
+TPAMI'22</span>](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2021-3056510-publication-version.)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
   
@@ -94,7 +94,7 @@ AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 INS'25</span>](https://arxiv.org/abs/2603.12684)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-DOCS'24</span>](https://yqzhang-zz.github.io/zh-publications/papers/DOCS-24-FedCCL.pdf)
+DOCS'24</span>](https://yqzhang-zz.github.io/zh-publications/papers/DOCS-24-FedCCL.)
 
 - **Heterogeneous Federated Learning**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
