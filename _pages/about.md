@@ -248,6 +248,7 @@ TPAMI'22</span>
 <!-- 
 - *2026/02*: IEEE汇刊TETCI优秀编委
 -->
+- *2026/03*: Outstanding Advisor for Innovation and Entrepreneurship Education, Guangdong University of Technology
 - *2026/01*: Outstanding Postgraduate Supervisor, Guangdong University of Technology
 - *2025/12*: Outstanding Editorial Board Member, Journal of Guangdong University of Technology
 - *2024/12*: Excellent Reviewer, ACM SIGKDD 2025
