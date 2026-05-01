@@ -45,11 +45,11 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
+- *2026/04*: &nbsp;🎉🎉 One paper accepted to ICML 2026, congratulations to Prof. Mengke Li!
 - *2026/02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou!
 - *2026/01*: &nbsp;🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
 - *2026/01*: &nbsp;🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
 - *2026/01*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as a Highly Cited Paper by the ESI.
-- *2025/12*: &nbsp;🎉 Two papers accepted by IoTJ.
 
 <span class='anchor' id="publications"></span>
 
