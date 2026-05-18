@@ -285,6 +285,7 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
+- *2026/05*: Reshaping Higher Education and Innovation in the Era of Large-Scale Models, Hong Kong Huashang Education Group
 - *2025/12*: Clustering Analysis of Complex Distributed Data under Dynamic Environments, Shanxi University (SXU)
 - *2024/12*: Clustering Complex Data Under Dynamic Environments, Northeastern University (NEU) / State Key Laboratory of Synthetical Automation for Process Industries
 - *2024/12*: Clustering Analysis of Complex Data under Dynamic Environments, Guangdong University of Technology (GDUT)
