@@ -34,8 +34,16 @@ My research focuses on **Machine Learning** (ML) and **Data Science**. Specifica
 
 Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emerging Topics in Computational Intelligence* (TETCI). My academic and teaching contributions have been recognized with the Second Prize of the Guangdong Provincial Science and Technology Progress Award (2023), several Best Paper Awards (ISMIS’18, DOCS’24, 2020 IEEE CIS), and the MOE-Huawei "Intelligent Base" Pioneer Teacher Award.
 
-<span style="color: #0b5394;">
-🎉🎉Our **Open-environment Machine learning Group (OMG)** is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to <a href="/zh-OMG/" target="_self">About OMG</a>).</span>
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
+  <!--
+  <div style="color: #94a3b8; text-decoration: line-through; font-size: 0.9em; margin-bottom: 8px;">
+    <strong>📢 [2025.09.01]:</strong> Our Open-environment Machine learning Group (OMG) is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to <a href="/OMG/" target="_self" style="color: #94a3b8;"><strong>About OMG</strong></a>).
+  </div>
+  -->
+  <div style="color: #0b5394; font-size: 0.95em;">
+    <strong>📢 [2026.04.01]:</strong> The 2026 intake for graduate and undergraduate research students is currently full. Thank you for your interest! OMG expects to launch the recruitment for 2027 <strong>prospective graduate students (exempt from entrance exams)</strong> and open 1-2 positions for <strong>undergraduate researchers</strong> in <strong>September 2026</strong>. Please stay tuned for the <a href="/OMG/" target="_self"><strong>latest updates of OMG</strong></a>.
+  </div>
+</div>
 
 <span class='anchor' id="news"></span>
 
