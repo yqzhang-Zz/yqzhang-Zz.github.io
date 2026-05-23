@@ -41,7 +41,7 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   </div>
   -->
   <div style="color: #0b5394; font-size: 0.95em;">
-    <strong>📢 [2026.04.01]:</strong> The 2026 intake for graduate and undergraduate research students is currently full. Thank you for your interest! Open-environment Machine learning Group (OMG) expects to launch the recruitment for 2027 <strong>prospective graduate students</strong> and open 1-2 positions for <strong>undergraduate researchers</strong> in <strong>September 2026</strong>. Please stay tuned for the <a href="/zh-OMG/" target="_self"><strong>latest updates of OMG</strong></a>.
+    <strong>📢 [2026.04.01]:</strong> The 2026 intake for graduate and undergraduate research students is currently full. Thank you for your interest! <strong>Open-environment Machine learning Group (OMG)</strong> expects to launch the recruitment for 2027 <strong>prospective graduate students</strong> and open 1-2 positions for <strong>undergraduate researchers</strong> in <strong>September 2026</strong>. Please stay tuned for the <a href="/zh-OMG/" target="_self"><strong>latest updates of OMG</strong></a>.
   </div>
 </div>
 
