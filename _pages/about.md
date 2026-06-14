@@ -53,11 +53,11 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
+- *2026/05*: &nbsp;🎉🎉 One paper accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
 - *2026/05*: &nbsp;🎉 One survey paper accepted by **TAI**, congratulations to Yunfan Zhang!
 - *2026/05*: &nbsp;🎉 One paper accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!
 - *2026/05*: &nbsp;🎉🎉 One paper accepted to **SIGKDD 2026**, congratulations to Tao Xie!
 - *2026/05*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
-- *2026/04*: &nbsp;🎉🎉 One paper accepted to **ICML 2026**, congratulations to Prof. Mengke Li!
 
 <span class='anchor' id="publications"></span>
 
