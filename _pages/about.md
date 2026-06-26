@@ -254,9 +254,7 @@ TPAMI'22</span>
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-<!-- 
-- *2026/02*: IEEE汇刊TETCI优秀编委
--->
+- *2026/06*: IEEE TETCI Outstanding Associate Editor Performance Award
 - *2026/03*: Outstanding Advisor for Innovation and Entrepreneurship Education, Guangdong University of Technology
 - *2026/01*: Outstanding Postgraduate Supervisor, Guangdong University of Technology
 - *2025/12*: Outstanding Editorial Board Member, Journal of Guangdong University of Technology
