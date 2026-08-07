@@ -52,7 +52,8 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-- *2026/06*: &nbsp;🎉🎉 One paper accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!
+- *2026/08*: &nbsp;🎉 One paper accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!
+- *2026/08*: &nbsp;🎉🎉 One paper accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!
 - *2026/07*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
 - *2026/06*: &nbsp;🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
 - *2026/06*: &nbsp;🎉🎉 One paper accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
