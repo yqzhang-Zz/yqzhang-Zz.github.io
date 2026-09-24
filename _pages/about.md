@@ -52,6 +52,8 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
+- *2026/09*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.
+- *2026/09*: &nbsp;🎉 Two papers accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!
 - *2026/09*: &nbsp;🎉🎉 One paper accepted to **SIGMOD 2027**, congratulations to Yu Wang!
 - *2026/09*: &nbsp;🎉 One paper accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!
 - *2026/08*: &nbsp;🎉🎉 One paper accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!
