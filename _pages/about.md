@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: ''
+excerpt: ''
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
+ap_lang: en
+ap_section: home
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -15,6 +17,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<nav class="ap-contents" aria-label="On this page"><a href="#news" target="_self">News</a><a href="#publications" target="_self">Papers</a><a href="#honors-and-awards" target="_self">Honors</a><a href="#educations" target="_self">Education</a><a href="#invited-talks" target="_self">Invited Talks</a></nav>
 <span class='anchor' id='about-me'></span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🏫 About Me</h1>
@@ -25,7 +28,7 @@ redirect_from:
 
 I am currently a Professor and Associate Head of the Department of Computer Science and Technology at [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/). I received my B.Eng. degree from [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/) in 2013, followed by M.Sc. and Ph.D. degrees from [Hong Kong Baptist University (HKBU)](https://www.hkbu.edu.hk/en.html) in 2014 and 2019, respectively, supervised by [Yiu-ming Cheung (张晓明)](https://www.comp.hkbu.edu.hk/~ymc/) (IEEE/AAAS/IAPR Fellow, Changjiang Chair Professor, Chair Professor in Artificial Intelligence@HKBU). Following a postdoctoral fellowship at HKBU in 2019, I joined GDUT in 2020, where I was promoted to Associate Professor in 2022 and Professor in 2026.
 
-My research focuses on **Machine Learning** (ML) and **Data Science**. Specifically, I collaborate closely with [Yang Lu (卢杨)](https://jasonyanglu.github.io/) and [Mengke Li (李梦柯)](https://keke921.github.io/) on research topics including: **ML on Heterogeneous Data**, **Unsupervised Federated Learning**, **Non-stationary Data Analysis**. My research interests also inclue Large Language Models (LLMs) and AI for Science (AI4S). I have published over 100 papers in journals and conferences, including those in **TPAMI, TCYB, TNNLS, SIGMOD, SIGKDD, NeurIPS, ICML, and AAAI**, to name a few.
+My research focuses on **Machine Learning** (ML) and **Data Science**. Specifically, I collaborate closely with [Yang Lu (卢杨)](https://jasonyanglu.github.io/) and [Mengke Li (李梦柯)](https://keke921.github.io/) on research topics including: **ML on Heterogeneous Data**, **Unsupervised Federated Learning**, **Non-stationary Data Analysis**. My research interests also inclue Large Language Models (LLMs) and AI for Science (AI4S). I have published {{ site.data.academic_profile.metrics.publications_total.en_phrase }} in journals and conferences, including those in **TPAMI, TCYB, TNNLS, SIGMOD, SIGKDD, NeurIPS, ICML, and AAAI**, to name a few.
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -52,19 +55,9 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-- *2026/09*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.
-- *2026/09*: &nbsp;🎉 Two papers accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!
-- *2026/09*: &nbsp;🎉🎉 One paper accepted to **SIGMOD 2027**, congratulations to Yu Wang!
-- *2026/09*: &nbsp;🎉 One paper accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!
-- *2026/08*: &nbsp;🎉🎉 One paper accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!
-- *2026/08*: &nbsp;🎉 One paper accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!
-- *2026/08*: &nbsp;🎉🎉 One paper accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!
-- *2026/07*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
-- *2026/06*: &nbsp;🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
-- *2026/06*: &nbsp;🎉🎉 One paper accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
-- *2026/05*: &nbsp;🎉 One survey paper accepted by **TAI**, congratulations to Yunfan Zhang!
-- *2026/05*: &nbsp;🎉 One paper accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!
-- *2026/05*: &nbsp;🎉🎉 One paper accepted to **SIGKDD 2026**, congratulations to Tao Xie!
+{{ site.data.academic_news.markdown }}
+
+<p><a href="/news/" target="_self">All news →</a></p>
 
 <span class='anchor' id="publications"></span>
 
@@ -109,7 +102,7 @@ AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 INS'25</span>](https://arxiv.org/abs/2603.12684)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-DOCS'24</span>](https://yqzhang-zz.github.io/zh-publications/papers/DOCS-24-FedCCL.)
+DOCS'24</span>](https://yqzhang-zz.github.io/zh-publications/papers/DOCS-24-FedCCL.pdf)
 
 - **Heterogeneous Federated Learning**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -203,53 +196,53 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
-[Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>
-**Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C048.title }}]({{ site.data.academic_publications_by_id.C048.link }})<br>
+{{ site.data.academic_publications_by_id.C048.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR'26</span> 
-[SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](https://arxiv.org/abs/2604.27596)<br>
-Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C050.title }}]({{ site.data.academic_publications_by_id.C050.link }})<br>
+{{ site.data.academic_publications_by_id.C050.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
-[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39777)<br>
-Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C044.title }}]({{ site.data.academic_publications_by_id.C044.link }})<br>
+{{ site.data.academic_publications_by_id.C044.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGKDD'24</span> 
-[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
+[{{ site.data.academic_publications_by_id.C018.title }}]({{ site.data.academic_publications_by_id.C018.link }})<br>
+{{ site.data.academic_publications_by_id.C018.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 NeurIPS'24</span> 
-[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html)<br>
-Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C026.title }}]({{ site.data.academic_publications_by_id.C026.link }})<br>
+{{ site.data.academic_publications_by_id.C026.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TMM'26</span> 
-[NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering](https://ieeexplore.ieee.org/abstract/document/11353921/)<br>
-Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao, **Yiqun Zhang** and Yang Liu
+[{{ site.data.academic_publications_by_id.J025.title }}]({{ site.data.academic_publications_by_id.J025.link }})<br>
+{{ site.data.academic_publications_by_id.J025.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TAI'25</span> 
-[Trending Applications of Large Language Models: A User Perspective Survey](https://ieeexplore.ieee.org/abstract/document/11199892)<br>
-**Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J023.title }}]({{ site.data.academic_publications_by_id.J023.link }})<br>
+{{ site.data.academic_publications_by_id.J023.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'25</span> 
-[Online Heterogeneous Feature Selection](https://ieeexplore.ieee.org/abstract/document/11274409)<br>
-**Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J022.title }}]({{ site.data.academic_publications_by_id.J022.link }})<br>
+{{ site.data.academic_publications_by_id.J022.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'25</span> 
-[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://ieeexplore.ieee.org/abstract/document/11007519)<br>
-**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J017.title }}]({{ site.data.academic_publications_by_id.J017.link }})<br>
+{{ site.data.academic_publications_by_id.J017.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TPAMI'22</span> 
-[Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
-**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J005.title }}]({{ site.data.academic_publications_by_id.J005.link }})<br>
+{{ site.data.academic_publications_by_id.J005.authors_markdown }}
 
   ... ... For a full list of publications, you can click <a href="/zh-publications/" target="_self">here</a> or please visit [DBLP](https://dblp.org/pid/125/5587-6.html)  &#124; [Google Scholar](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl) ... ...
 
@@ -284,11 +277,11 @@ TPAMI'22</span>
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-- *2014/09 - 2019/11*: Ph.D. in Computer Science, Hong Kong Baptist University 
+- *{{ site.data.academic_profile.education["edu-1"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-1"].end | replace: "-", "/" }}*: Ph.D. in Computer Science, Hong Kong Baptist University 
 <br><span style="font-size: 0.85em; color: #666;">(Supervisor: Yiu-ming Cheung (Chair Professor, IEEE Fellow, AAAS Fellow, and IAPR Fellow)</span>
-- *2013/09 - 2014/11*: M.Sc. in Computer Science, Hong Kong Baptist University
-- *2009/09 - 2013/07*: B.Eng. in Biomedical Engineering, South China University of Technology
-- *2006/09 - 2009/07*: Science Class, Shenzhen Hongling High School
+- *{{ site.data.academic_profile.education["edu-2"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-2"].end | replace: "-", "/" }}*: M.Sc. in Computer Science, Hong Kong Baptist University
+- *{{ site.data.academic_profile.education["edu-3"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-3"].end | replace: "-", "/" }}*: B.Eng. in Biomedical Engineering, South China University of Technology
+- *{{ site.data.academic_profile.education["edu-4"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-4"].end | replace: "-", "/" }}*: Science Class, Shenzhen Hongling High School
 
 <span class='anchor' id="invited-talks"></span>
 
