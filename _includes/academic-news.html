@@ -1,0 +1,5 @@
+<ul class="ap-news-list">
+{% for item in site.data.academic_news.all_entries %}
+  <li id="{{ item.id }}"><time datetime="{{ item.date }}">{{ item.date | replace: '-', '/' }}</time>: {{ item.text | markdownify }}</li>
+{% endfor %}
+</ul>
