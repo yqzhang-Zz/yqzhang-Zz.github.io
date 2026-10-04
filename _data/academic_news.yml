@@ -1,0 +1,552 @@
+entries:
+- id: news-002
+  date: 2026-09
+  publication_ids:
+  - J017
+  text: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.
+  line: '- *2026/09*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.'
+- id: news-102
+  date: 2026-09
+  publication_ids:
+  - C059
+  text: 🎉 [One paper](/zh-publications/#paper-C059) accepted to the **Teen Research Track of ICDM 2026**, congratulations to Zheng Zhu and Zexi Tan!
+  line: '- *2026/09*: 🎉 [One paper](/zh-publications/#paper-C059) accepted to the **Teen Research Track of ICDM 2026**, congratulations to Zheng Zhu and Zexi Tan!'
+- id: news-003
+  date: 2026-09
+  publication_ids:
+  - C061
+  - C060
+  text: 🎉 [Two papers](/zh-publications/?highlight=C061,C060#paper-C061) accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!
+  line: '- *2026/09*: 🎉 [Two papers](/zh-publications/?highlight=C061,C060#paper-C061) accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!'
+- id: news-004
+  date: 2026-09
+  publication_ids:
+  - C062
+  text: 🎉🎉 [One paper](/zh-publications/#paper-C062) accepted to **SIGMOD 2027**, congratulations to Yu Wang!
+  line: '- *2026/09*: 🎉🎉 [One paper](/zh-publications/#paper-C062) accepted to **SIGMOD 2027**, congratulations to Yu Wang!'
+- id: news-005
+  date: 2026-09
+  publication_ids:
+  - C058
+  text: 🎉 [One paper](/zh-publications/#paper-C058) accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!
+  line: '- *2026/09*: 🎉 [One paper](/zh-publications/#paper-C058) accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!'
+- id: news-006
+  date: 2026-08
+  publication_ids:
+  - J031
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J031) accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!
+  line: '- *2026/08*: 🎉🎉 [One paper](/zh-publications/#paper-J031) accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!'
+- id: news-007
+  date: 2026-08
+  publication_ids:
+  - C057
+  text: 🎉 [One paper](/zh-publications/#paper-C057) accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!
+  line: '- *2026/08*: 🎉 [One paper](/zh-publications/#paper-C057) accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!'
+- id: news-008
+  date: 2026-08
+  publication_ids:
+  - J030
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J030) accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!
+  line: '- *2026/08*: 🎉🎉 [One paper](/zh-publications/#paper-J030) accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!'
+- id: news-009
+  date: 2026-07
+  publication_ids:
+  - J017
+  text: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
+  line: '- *2026/07*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.'
+- id: news-010
+  date: 2026-06
+  publication_ids: []
+  text: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
+  line: '- *2026/06*: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.'
+- id: news-011
+  date: 2026-06
+  publication_ids:
+  - J027
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
+  line: '- *2026/06*: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!'
+- id: news-013
+  date: 2026-05
+  publication_ids:
+  - J026
+  text: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!
+  line: '- *2026/05*: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!'
+- id: news-014
+  date: 2026-05
+  publication_ids:
+  - C056
+  text: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!
+  line: '- *2026/05*: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!'
+markdown: '- *2026/09*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.
+
+  - *2026/09*: 🎉 [One paper](/zh-publications/#paper-C059) accepted to the **Teen Research Track of ICDM 2026**, congratulations to Zheng Zhu and Zexi Tan!
+
+  - *2026/09*: 🎉 [Two papers](/zh-publications/?highlight=C061,C060#paper-C061) accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!
+
+  - *2026/09*: 🎉🎉 [One paper](/zh-publications/#paper-C062) accepted to **SIGMOD 2027**, congratulations to Yu Wang!
+
+  - *2026/09*: 🎉 [One paper](/zh-publications/#paper-C058) accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!
+
+  - *2026/08*: 🎉🎉 [One paper](/zh-publications/#paper-J031) accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!
+
+  - *2026/08*: 🎉 [One paper](/zh-publications/#paper-C057) accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!
+
+  - *2026/08*: 🎉🎉 [One paper](/zh-publications/#paper-J030) accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!
+
+  - *2026/07*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
+
+  - *2026/06*: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
+
+  - *2026/06*: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
+
+  - *2026/05*: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!
+
+  - *2026/05*: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!'
+all_entries:
+- id: news-002
+  date: 2026-09
+  publication_ids:
+  - J017
+  text: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.
+  line: '- *2026/09*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.'
+- id: news-102
+  date: 2026-09
+  publication_ids:
+  - C059
+  text: 🎉 [One paper](/zh-publications/#paper-C059) accepted to the **Teen Research Track of ICDM 2026**, congratulations to Zheng Zhu and Zexi Tan!
+  line: '- *2026/09*: 🎉 [One paper](/zh-publications/#paper-C059) accepted to the **Teen Research Track of ICDM 2026**, congratulations to Zheng Zhu and Zexi Tan!'
+- id: news-003
+  date: 2026-09
+  publication_ids:
+  - C061
+  - C060
+  text: 🎉 [Two papers](/zh-publications/?highlight=C061,C060#paper-C061) accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!
+  line: '- *2026/09*: 🎉 [Two papers](/zh-publications/?highlight=C061,C060#paper-C061) accepted to **BIBM 2026** as regular papers, congratulations to Shenghong Cai and Prof. Yuzhu Ji!'
+- id: news-004
+  date: 2026-09
+  publication_ids:
+  - C062
+  text: 🎉🎉 [One paper](/zh-publications/#paper-C062) accepted to **SIGMOD 2027**, congratulations to Yu Wang!
+  line: '- *2026/09*: 🎉🎉 [One paper](/zh-publications/#paper-C062) accepted to **SIGMOD 2027**, congratulations to Yu Wang!'
+- id: news-005
+  date: 2026-09
+  publication_ids:
+  - C058
+  text: 🎉 [One paper](/zh-publications/#paper-C058) accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!
+  line: '- *2026/09*: 🎉 [One paper](/zh-publications/#paper-C058) accepted to the BlueSky Track of **ICDM 2026**, congratulations to Tao Xie!'
+- id: news-006
+  date: 2026-08
+  publication_ids:
+  - J031
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J031) accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!
+  line: '- *2026/08*: 🎉🎉 [One paper](/zh-publications/#paper-J031) accepted by **IEEE Computational Intelligence Magazine (CIM)**, congratulations to Zhanpei Huang and Dr. Binbin Sun (MD)!'
+- id: news-007
+  date: 2026-08
+  publication_ids:
+  - C057
+  text: 🎉 [One paper](/zh-publications/#paper-C057) accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!
+  line: '- *2026/08*: 🎉 [One paper](/zh-publications/#paper-C057) accepted to **CIKM 2026**, congratulations to Shenghong Cai and Zihua Yang!'
+- id: news-008
+  date: 2026-08
+  publication_ids:
+  - J030
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J030) accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!
+  line: '- *2026/08*: 🎉🎉 [One paper](/zh-publications/#paper-J030) accepted by **Pattern Recognition**, congratulations to Prof. Mengke Li!'
+- id: news-009
+  date: 2026-07
+  publication_ids:
+  - J017
+  text: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
+  line: '- *2026/07*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.'
+- id: news-010
+  date: 2026-06
+  publication_ids: []
+  text: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
+  line: '- *2026/06*: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.'
+- id: news-011
+  date: 2026-06
+  publication_ids:
+  - J027
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
+  line: '- *2026/06*: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!'
+- id: news-013
+  date: 2026-05
+  publication_ids:
+  - J026
+  text: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!
+  line: '- *2026/05*: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!'
+- id: news-014
+  date: 2026-05
+  publication_ids:
+  - C056
+  text: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!
+  line: '- *2026/05*: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!'
+- id: news-015
+  date: 2026-05
+  publication_ids:
+  - C054
+  text: 🎉🎉 [One paper](/zh-publications/#paper-C054) accepted to **SIGKDD 2026**, congratulations to Tao Xie!
+  line: '- *2026/05*: 🎉🎉 [One paper](/zh-publications/#paper-C054) accepted to **SIGKDD 2026**, congratulations to Tao Xie!'
+- id: news-016
+  date: 2026-05
+  publication_ids:
+  - J017
+  text: 🎉🎉 [The paper](/zh-publications/#paper-J017) “Learning Self-Growth Maps for…” (TNNLS, 2025) has been selected as an **ESI Highly Cited Paper** in three consecutive updates (January, March and May 2026).
+  line: '- *2026/05*: 🎉🎉 [The paper](/zh-publications/#paper-J017) “Learning Self-Growth Maps for…” (TNNLS, 2025) has been selected as an **ESI Highly Cited Paper** in three consecutive updates (January, March and May 2026).'
+- id: news-017
+  date: 2026-04
+  publication_ids:
+  - C053
+  text: 🎉🎉 [One paper](/zh-publications/#paper-C053) accepted to **ICML 2026**, congratulations to Prof. Mengke Li!
+  line: '- *2026/04*: 🎉🎉 [One paper](/zh-publications/#paper-C053) accepted to **ICML 2026**, congratulations to Prof. Mengke Li!'
+- id: news-021
+  date: 2026-03
+  publication_ids:
+  - J017
+  text: 🎉🎉 [The paper](/zh-publications/#paper-J017) “Learning Self-Growth Maps for…” (TNNLS, 2025) remains an **ESI Highly Cited Paper** in the March 2026 update, following its selection in January.
+  line: '- *2026/03*: 🎉🎉 [The paper](/zh-publications/#paper-J017) “Learning Self-Growth Maps for…” (TNNLS, 2025) remains an **ESI Highly Cited Paper** in the March 2026 update, following its selection in January.'
+- id: news-022
+  date: 2026-03
+  publication_ids:
+  - J014
+  text: 🎉🎉 [The paper](/zh-publications/#paper-J014) “Learning Unified Distance Metric…” (ESWA, 2025) has been selected as an **ESI Highly Cited Paper** in three consecutive updates (November 2025, January and March 2026).
+  line: '- *2026/03*: 🎉🎉 [The paper](/zh-publications/#paper-J014) “Learning Unified Distance Metric…” (ESWA, 2025) has been selected as an **ESI Highly Cited Paper** in three consecutive updates (November 2025, January and March 2026).'
+- id: news-023
+  date: 2026-02
+  publication_ids:
+  - C050
+  - C049
+  text: 🎉🎉 [Two papers](/zh-publications/?highlight=C050,C049#paper-C050) accepted to **CVPR 2026**, congratulations to Hezhao Liu, Shihao Hou and Prof. Yang Lu!
+  line: '- *2026/02*: 🎉🎉 [Two papers](/zh-publications/?highlight=C050,C049#paper-C050) accepted to **CVPR 2026**, congratulations to Hezhao Liu, Shihao Hou and Prof. Yang Lu!'
+- id: news-025
+  date: 2026-01
+  publication_ids:
+  - C045
+  text: 🎉 [One paper](/zh-publications/#paper-C045) accepted to **DASFAA 2026** as a full paper, congratulations to Junyang Chen!
+  line: '- *2026/01*: 🎉 [One paper](/zh-publications/#paper-C045) accepted to **DASFAA 2026** as a full paper, congratulations to Junyang Chen!'
+- id: news-026
+  date: 2026-01
+  publication_ids:
+  - C047
+  - C046
+  text: 🎉 [Two papers](/zh-publications/?highlight=C047,C046#paper-C047) accepted to **ICASSP 2026**, congratulations to Shujie Qiu and Taixi Chen!
+  line: '- *2026/01*: 🎉 [Two papers](/zh-publications/?highlight=C047,C046#paper-C047) accepted to **ICASSP 2026**, congratulations to Shujie Qiu and Taixi Chen!'
+- id: news-027
+  date: 2026-01
+  publication_ids:
+  - J017
+  text: 🎉🎉 [The paper](/zh-publications/#paper-J017) “Learning Self-Growth Maps for…” (TNNLS, 2025) has been selected as an **ESI Highly Cited Paper** in the January 2026 update.
+  line: '- *2026/01*: 🎉🎉 [The paper](/zh-publications/#paper-J017) “Learning Self-Growth Maps for…” (TNNLS, 2025) has been selected as an **ESI Highly Cited Paper** in the January 2026 update.'
+- id: news-028
+  date: 2026-01
+  publication_ids:
+  - J014
+  text: 🎉🎉 [The paper](/zh-publications/#paper-J014) “Learning Unified Distance Metric…” (ESWA, 2025) remains an **ESI Highly Cited Paper** in the January 2026 update, following its selection in November 2025.
+  line: '- *2026/01*: 🎉🎉 [The paper](/zh-publications/#paper-J014) “Learning Unified Distance Metric…” (ESWA, 2025) remains an **ESI Highly Cited Paper** in the January 2026 update, following its selection in November 2025.'
+- id: news-030
+  date: 2025-12
+  publication_ids:
+  - J024
+  - J021
+  text: 🎉 [Two papers](/zh-publications/?highlight=J024,J021#paper-J024) accepted by **IEEE Internet of Things Journal**.
+  line: '- *2025/12*: 🎉 [Two papers](/zh-publications/?highlight=J024,J021#paper-J024) accepted by **IEEE Internet of Things Journal**.'
+- id: news-031
+  date: 2025-12
+  publication_ids: []
+  text: 🎉 I received an **Outstanding Editorial Board Member Award** from the Journal of Guangdong University of Technology for 2025.
+  line: '- *2025/12*: 🎉 I received an **Outstanding Editorial Board Member Award** from the Journal of Guangdong University of Technology for 2025.'
+- id: news-033
+  date: 2025-11
+  publication_ids:
+  - J020
+  text: 🎉 [One paper](/zh-publications/#paper-J020) accepted by **Information Sciences**, congratulations to Prof. Yue Zhang and Chuanlong Qiu!
+  line: '- *2025/11*: 🎉 [One paper](/zh-publications/#paper-J020) accepted by **Information Sciences**, congratulations to Prof. Yue Zhang and Chuanlong Qiu!'
+- id: news-034
+  date: 2025-11
+  publication_ids:
+  - J014
+  text: 🎉🎉 [The paper](/zh-publications/#paper-J014) “Learning Unified Distance Metric…” (ESWA, 2025) has been selected as an **ESI Highly Cited Paper** in the November 2025 update.
+  line: '- *2025/11*: 🎉🎉 [The paper](/zh-publications/#paper-J014) “Learning Unified Distance Metric…” (ESWA, 2025) has been selected as an **ESI Highly Cited Paper** in the November 2025 update.'
+- id: news-035
+  date: 2025-11
+  publication_ids:
+  - C043
+  - C044
+  text: 🎉 [Two papers](/zh-publications/?highlight=C044,C043#paper-C044) accepted to **AAAI 2026**, congratulations to Mingjie Zhao and Zexi Tan!
+  line: '- *2025/11*: 🎉 [Two papers](/zh-publications/?highlight=C044,C043#paper-C044) accepted to **AAAI 2026**, congratulations to Mingjie Zhao and Zexi Tan!'
+- id: news-036
+  date: 2025-10
+  publication_ids:
+  - J022
+  text: 🎉 [One paper](/zh-publications/#paper-J022) accepted by **IEEE Transactions on Cybernetics**, congratulations to Xinxi Chen, Lang Zhao and Prof. Peng Liu!
+  line: '- *2025/10*: 🎉 [One paper](/zh-publications/#paper-J022) accepted by **IEEE Transactions on Cybernetics**, congratulations to Xinxi Chen, Lang Zhao and Prof. Peng Liu!'
+- id: news-039
+  date: 2025-10
+  publication_ids:
+  - C042
+  text: 🎉 [One paper](/zh-publications/#paper-C042) accepted to **BIBM 2025**, congratulations to Tao Xie and Zexi Tan!
+  line: '- *2025/10*: 🎉 [One paper](/zh-publications/#paper-C042) accepted to **BIBM 2025**, congratulations to Tao Xie and Zexi Tan!'
+- id: news-040
+  date: 2025-10
+  publication_ids:
+  - J023
+  text: 🎉 [One survey paper](/zh-publications/#paper-J023) accepted by **IEEE Transactions on Artificial Intelligence**, congratulations to Mingjie Zhao!
+  line: '- *2025/10*: 🎉 [One survey paper](/zh-publications/#paper-J023) accepted by **IEEE Transactions on Artificial Intelligence**, congratulations to Mingjie Zhao!'
+- id: news-043
+  date: 2025-08
+  publication_ids:
+  - C048
+  text: 🎉🎉 [One paper](/zh-publications/#paper-C048) accepted to **SIGMOD 2026**, congratulations to Mingjie Zhao!
+  line: '- *2025/08*: 🎉🎉 [One paper](/zh-publications/#paper-C048) accepted to **SIGMOD 2026**, congratulations to Mingjie Zhao!'
+- id: news-046
+  date: 2025-07
+  publication_ids:
+  - J025
+  text: 🎉 [One paper](/zh-publications/#paper-J025) accepted by **IEEE Transactions on Multimedia**, congratulations to Jiayu Ye and Prof. An Zeng!
+  line: '- *2025/07*: 🎉 [One paper](/zh-publications/#paper-J025) accepted by **IEEE Transactions on Multimedia**, congratulations to Jiayu Ye and Prof. An Zeng!'
+- id: news-047
+  date: 2025-07
+  publication_ids:
+  - C038
+  text: 🎉 [One paper](/zh-publications/#paper-C038) accepted to **ACM MM 2025**, congratulations to Hezhao Liu and Prof. Yang Lu!
+  line: '- *2025/07*: 🎉 [One paper](/zh-publications/#paper-C038) accepted to **ACM MM 2025**, congratulations to Hezhao Liu and Prof. Yang Lu!'
+- id: news-048
+  date: 2025-06
+  publication_ids:
+  - C036
+  text: 🎉 [One paper](/zh-publications/#paper-C036) accepted to **ICCV 2025**, congratulations to Chikai Shang, Prof. Fangqing Gu and Prof. Yang Lu!
+  line: '- *2025/06*: 🎉 [One paper](/zh-publications/#paper-C036) accepted to **ICCV 2025**, congratulations to Chikai Shang, Prof. Fangqing Gu and Prof. Yang Lu!'
+- id: news-051
+  date: 2025-05
+  publication_ids:
+  - J016
+  text: 🎉 [One paper](/zh-publications/#paper-J016) accepted by **IEEE Transactions on Image Processing**, congratulations to Jiayu Ye and Prof. An Zeng!
+  line: '- *2025/05*: 🎉 [One paper](/zh-publications/#paper-J016) accepted by **IEEE Transactions on Image Processing**, congratulations to Jiayu Ye and Prof. An Zeng!'
+- id: news-052
+  date: 2025-04
+  publication_ids:
+  - C034
+  text: 🎉 [One paper](/zh-publications/#paper-C034) accepted to **IJCAI 2025**, congratulations to Prof. Yuzhu Ji!
+  line: '- *2025/04*: 🎉 [One paper](/zh-publications/#paper-C034) accepted to **IJCAI 2025**, congratulations to Prof. Yuzhu Ji!'
+- id: news-053
+  date: 2025-04
+  publication_ids:
+  - J017
+  text: 🎉 [One paper](/zh-publications/#paper-J017) accepted by **IEEE Transactions on Neural Networks and Learning Systems**, congratulations to Sen Feng and Prof. Yuzhu Ji!
+  line: '- *2025/04*: 🎉 [One paper](/zh-publications/#paper-J017) accepted by **IEEE Transactions on Neural Networks and Learning Systems**, congratulations to Sen Feng and Prof. Yuzhu Ji!'
+- id: news-055
+  date: 2025-02
+  publication_ids:
+  - C031
+  text: 🎉 [One paper](/zh-publications/#paper-C031) accepted to **CVPR 2025**, congratulations to Yijie Liu and Prof. Yang Lu!
+  line: '- *2025/02*: 🎉 [One paper](/zh-publications/#paper-C031) accepted to **CVPR 2025**, congratulations to Yijie Liu and Prof. Yang Lu!'
+- id: news-056
+  date: 2025-02
+  publication_ids: []
+  text: 🎉 Yunfan Zhang received a **fully funded direct-entry PhD offer from Hong Kong Baptist University**. Congratulations!
+  line: '- *2025/02*: 🎉 Yunfan Zhang received a **fully funded direct-entry PhD offer from Hong Kong Baptist University**. Congratulations!'
+- id: news-057
+  date: 2025-02
+  publication_ids: []
+  text: 🎉 Mingjie Zhao received a **fully funded PhD offer from Hong Kong Baptist University**. Congratulations!
+  line: '- *2025/02*: 🎉 Mingjie Zhao received a **fully funded PhD offer from Hong Kong Baptist University**. Congratulations!'
+- id: news-058
+  date: 2025-01
+  publication_ids:
+  - J014
+  text: 🎉 [One paper](/zh-publications/#paper-J014) accepted by **Expert Systems with Applications**, congratulations to Mingjie Zhao!
+  line: '- *2025/01*: 🎉 [One paper](/zh-publications/#paper-J014) accepted by **Expert Systems with Applications**, congratulations to Mingjie Zhao!'
+- id: news-060
+  date: 2024-12
+  publication_ids:
+  - C029
+  - C030
+  - C028
+  text: 🎉 [Three papers](/zh-publications/?highlight=C030,C029,C028#paper-C030) accepted to **ICASSP 2025**, congratulations to Maixuan Peng, Yuyang Wu, Sen Feng and Prof. Yuzhu Ji!
+  line: '- *2024/12*: 🎉 [Three papers](/zh-publications/?highlight=C030,C029,C028#paper-C030) accepted to **ICASSP 2025**, congratulations to Maixuan Peng, Yuyang Wu, Sen Feng and Prof. Yuzhu Ji!'
+- id: news-061
+  date: 2024-12
+  publication_ids: []
+  text: 🎉 I was recognized as a **SIGKDD 2025 Excellent Reviewer**.
+  line: '- *2024/12*: 🎉 I was recognized as a **SIGKDD 2025 Excellent Reviewer**.'
+- id: news-062
+  date: 2024-12
+  publication_ids:
+  - C027
+  text: 🎉 [One paper](/zh-publications/#paper-C027) accepted to **AAAI 2025**, congratulations to Yunfan Zhang!
+  line: '- *2024/12*: 🎉 [One paper](/zh-publications/#paper-C027) accepted to **AAAI 2025**, congratulations to Yunfan Zhang!'
+- id: news-065
+  date: 2024-10
+  publication_ids: []
+  text: 🎉 I received a **General Program grant from the Natural Science Foundation of Guangdong Province** as principal investigator.
+  line: '- *2024/10*: 🎉 I received a **General Program grant from the Natural Science Foundation of Guangdong Province** as principal investigator.'
+- id: news-066
+  date: 2024-10
+  publication_ids: []
+  text: 🎉 I received funding as principal investigator under a **high-end foreign expert program of the Guangdong Provincial Department of Science and Technology**.
+  line: '- *2024/10*: 🎉 I received funding as principal investigator under a **high-end foreign expert program of the Guangdong Provincial Department of Science and Technology**.'
+- id: news-067
+  date: 2024-09
+  publication_ids:
+  - C026
+  text: 🎉 [One paper](/zh-publications/#paper-C026) accepted to **NeurIPS 2024**, congratulations to Prof. Mengke Li!
+  line: '- *2024/09*: 🎉 [One paper](/zh-publications/#paper-C026) accepted to **NeurIPS 2024**, congratulations to Prof. Mengke Li!'
+- id: news-069
+  date: 2024-08
+  publication_ids: []
+  text: 🎉 I received a **General Program grant from the National Natural Science Foundation of China** as principal investigator.
+  line: '- *2024/08*: 🎉 I received a **General Program grant from the National Natural Science Foundation of China** as principal investigator.'
+- id: news-070
+  date: 2024-08
+  publication_ids:
+  - C015
+  text: 🎉🎉 [Our paper](/zh-publications/#paper-C015) received the **Best Paper Award at DOCS 2024**, congratulations to Yunfan Zhang and Dr. Rong Zou!
+  line: '- *2024/08*: 🎉🎉 [Our paper](/zh-publications/#paper-C015) received the **Best Paper Award at DOCS 2024**, congratulations to Yunfan Zhang and Dr. Rong Zou!'
+- id: news-071
+  date: 2024-08
+  publication_ids:
+  - C025
+  - C024
+  text: 🎉 [Two papers](/zh-publications/?highlight=C025,C024#paper-C025) accepted to **BIBM 2024** as full papers, congratulations to Qingsheng Chen and Prof. Yuzhu Ji!
+  line: '- *2024/08*: 🎉 [Two papers](/zh-publications/?highlight=C025,C024#paper-C025) accepted to **BIBM 2024** as full papers, congratulations to Qingsheng Chen and Prof. Yuzhu Ji!'
+- id: news-072
+  date: 2024-07
+  publication_ids:
+  - C020
+  - C019
+  text: 🎉 [Two papers](/zh-publications/?highlight=C020,C019#paper-C020) accepted to **ECAI 2024**, congratulations to Mingjie Zhao and Prof. Yuzhu Ji!
+  line: '- *2024/07*: 🎉 [Two papers](/zh-publications/?highlight=C020,C019#paper-C020) accepted to **ECAI 2024**, congratulations to Mingjie Zhao and Prof. Yuzhu Ji!'
+- id: news-074
+  date: 2024-06
+  publication_ids:
+  - C018
+  text: 🎉🎉 [One paper](/zh-publications/#paper-C018) accepted to **SIGKDD 2024**, congratulations to Junyang Chen!
+  line: '- *2024/06*: 🎉🎉 [One paper](/zh-publications/#paper-C018) accepted to **SIGKDD 2024**, congratulations to Junyang Chen!'
+- id: news-075
+  date: 2024-05
+  publication_ids:
+  - C017
+  text: 🎉 [One paper](/zh-publications/#paper-C017) accepted to **ICDCS 2024**, congratulations to Shenghong Cai!
+  line: '- *2024/05*: 🎉 [One paper](/zh-publications/#paper-C017) accepted to **ICDCS 2024**, congratulations to Shenghong Cai!'
+- id: news-076
+  date: 2023-10
+  publication_ids:
+  - C013
+  text: 🎉 [One paper](/zh-publications/#paper-C013) accepted to **BIBM 2023** as a full paper, congratulations to Lang Zhao!
+  line: '- *2023/10*: 🎉 [One paper](/zh-publications/#paper-C013) accepted to **BIBM 2023** as a full paper, congratulations to Lang Zhao!'
+- id: news-078
+  date: 2023-06
+  publication_ids:
+  - C009
+  text: 🎉 [One paper](/zh-publications/#paper-C009) accepted to **ECAI 2023**, congratulations to Zhipeng Zhang and Prof. An Zeng!
+  line: '- *2023/06*: 🎉 [One paper](/zh-publications/#paper-C009) accepted to **ECAI 2023**, congratulations to Zhipeng Zhang and Prof. An Zeng!'
+- id: news-079
+  date: 2023-06
+  publication_ids: []
+  text: 🎉🎉 I was elevated to **IEEE Senior Member**.
+  line: '- *2023/06*: 🎉🎉 I was elevated to **IEEE Senior Member**.'
+- id: news-081
+  date: 2022-11
+  publication_ids: []
+  text: 🎉 I received a **General Program grant from the Natural Science Foundation of Guangdong Province** as principal investigator.
+  line: '- *2022/11*: 🎉 I received a **General Program grant from the Natural Science Foundation of Guangdong Province** as principal investigator.'
+- id: news-084
+  date: 2022-08
+  publication_ids: []
+  text: 🎉 I received funding for an **interdisciplinary research project at Guangdong University of Technology** as principal investigator.
+  line: '- *2022/08*: 🎉 I received funding for an **interdisciplinary research project at Guangdong University of Technology** as principal investigator.'
+- id: news-085
+  date: 2022-07
+  publication_ids:
+  - J006
+  text: 🎉 [One paper](/zh-publications/#paper-J006) accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
+  line: '- *2022/07*: 🎉 [One paper](/zh-publications/#paper-J006) accepted by **IEEE Transactions on Neural Networks and Learning Systems**.'
+- id: news-086
+  date: 2022-04
+  publication_ids:
+  - C006
+  text: 🎉 [One paper](/zh-publications/#paper-C006) accepted to **IJCAI 2022**.
+  line: '- *2022/04*: 🎉 [One paper](/zh-publications/#paper-C006) accepted to **IJCAI 2022**.'
+- id: news-087
+  date: 2021-10
+  publication_ids: []
+  text: 🎉 I received a **General Program grant from the Natural Science Foundation of Guangdong Province** as principal investigator.
+  line: '- *2021/10*: 🎉 I received a **General Program grant from the Natural Science Foundation of Guangdong Province** as principal investigator.'
+- id: news-088
+  date: 2021-08
+  publication_ids: []
+  text: 🎉 I received a **Young Scientists Fund grant from the National Natural Science Foundation of China** as principal investigator.
+  line: '- *2021/08*: 🎉 I received a **Young Scientists Fund grant from the National Natural Science Foundation of China** as principal investigator.'
+- id: news-089
+  date: 2021-06
+  publication_ids: []
+  text: 🎉 I received funding as principal investigator under the **Guangzhou Science and Technology Program for early-career PhD researchers**.
+  line: '- *2021/06*: 🎉 I received funding as principal investigator under the **Guangzhou Science and Technology Program for early-career PhD researchers**.'
+- id: news-090
+  date: 2021-01
+  publication_ids:
+  - J005
+  text: 🎉🎉 [One paper](/zh-publications/#paper-J005) accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+  line: '- *2021/01*: 🎉🎉 [One paper](/zh-publications/#paper-J005) accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.'
+- id: news-091
+  date: 2020-10
+  publication_ids: []
+  text: 🎉 I joined the **School of Computer Science and Technology at Guangdong University of Technology**.
+  line: '- *2020/10*: 🎉 I joined the **School of Computer Science and Technology at Guangdong University of Technology**.'
+- id: news-092
+  date: 2020-03
+  publication_ids:
+  - J004
+  text: 🎉 [One paper](/zh-publications/#paper-J004) accepted by **IEEE Transactions on Cybernetics**.
+  line: '- *2020/03*: 🎉 [One paper](/zh-publications/#paper-J004) accepted by **IEEE Transactions on Cybernetics**.'
+- id: news-093
+  date: 2019-12
+  publication_ids: []
+  text: 🎉 I received a **Research Performance Award** from the Department of Computer Science at Hong Kong Baptist University.
+  line: '- *2019/12*: 🎉 I received a **Research Performance Award** from the Department of Computer Science at Hong Kong Baptist University.'
+- id: news-094
+  date: 2019-11
+  publication_ids:
+  - C005
+  text: 🎉 [One paper](/zh-publications/#paper-C005) accepted to **AAAI 2020**.
+  line: '- *2019/11*: 🎉 [One paper](/zh-publications/#paper-C005) accepted to **AAAI 2020**.'
+- id: news-095
+  date: 2019-08
+  publication_ids:
+  - J002
+  text: 🎉🎉 [Our paper](/zh-publications/#paper-J002) “A Unified Entropy-Based Distance…” (TNNLS, 2020) won **first prize in the research paper competition of the IEEE Computational Intelligence Society Hong Kong Chapter**.
+  line: '- *2019/08*: 🎉🎉 [Our paper](/zh-publications/#paper-J002) “A Unified Entropy-Based Distance…” (TNNLS, 2020) won **first prize in the research paper competition of the IEEE Computational Intelligence Society Hong Kong Chapter**.'
+- id: news-096
+  date: 2019-02
+  publication_ids:
+  - J002
+  text: 🎉 [One paper](/zh-publications/#paper-J002) accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
+  line: '- *2019/02*: 🎉 [One paper](/zh-publications/#paper-J002) accepted by **IEEE Transactions on Neural Networks and Learning Systems**.'
+- id: news-097
+  date: 2018-10
+  publication_ids:
+  - C004
+  text: 🎉🎉 [Our paper](/zh-publications/#paper-C004) received the **Best Student Paper Award at ISMIS 2018**.
+  line: '- *2018/10*: 🎉🎉 [Our paper](/zh-publications/#paper-C004) received the **Best Student Paper Award at ISMIS 2018**.'
+- id: news-098
+  date: 2016-03
+  publication_ids:
+  - C002
+  text: 🎉 [One paper](/zh-publications/#paper-C002) accepted to **IJCNN 2016**.
+  line: '- *2016/03*: 🎉 [One paper](/zh-publications/#paper-C002) accepted to **IJCNN 2016**.'
+- id: news-099
+  date: 2014-09
+  publication_ids:
+  - C001
+  text: 🎉 [One paper](/zh-publications/#paper-C001) accepted to **ICDMW 2014**.
+  line: '- *2014/09*: 🎉 [One paper](/zh-publications/#paper-C001) accepted to **ICDMW 2014**.'
+- id: news-100
+  date: 2014-06
+  publication_ids: []
+  text: 🎉 I received an **academic excellence scholarship** from the Department of Computer Science at Hong Kong Baptist University.
+  line: '- *2014/06*: 🎉 I received an **academic excellence scholarship** from the Department of Computer Science at Hong Kong Baptist University.'
+- id: news-101
+  date: 2014-01
+  publication_ids: []
+  text: 🎉 I received an **academic excellence scholarship** from the Department of Computer Science at Hong Kong Baptist University.
+  line: '- *2014/01*: 🎉 I received an **academic excellence scholarship** from the Department of Computer Science at Hong Kong Baptist University.'
