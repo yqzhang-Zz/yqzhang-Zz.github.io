@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yiqun Zhang's Homepage"
 description              : "—— \"<em>Advancing Open-Environment Machine Learning for Cutting-Edge Data Science Applications</em> \""
-repository               : "yqzhang-Zz.github.io"
+repository               : "yqzhang-Zz/yqzhang-Zz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -161,3 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+url: "https://yqzhang-zz.github.io"
+
+baseurl: ""
