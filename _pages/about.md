@@ -28,7 +28,7 @@ ap_section: home
 
 I am currently a Professor and Associate Head of the Department of Computer Science and Technology at [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/). I received my B.Eng. degree from [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/) in 2013, followed by M.Sc. and Ph.D. degrees from [Hong Kong Baptist University (HKBU)](https://www.hkbu.edu.hk/en.html) in 2014 and 2019, respectively, supervised by [Yiu-ming Cheung (张晓明)](https://www.comp.hkbu.edu.hk/~ymc/) (IEEE/AAAS/IAPR Fellow, Changjiang Chair Professor, Chair Professor in Artificial Intelligence@HKBU). Following a postdoctoral fellowship at HKBU in 2019, I joined GDUT in 2020, where I was promoted to Associate Professor in 2022 and Professor in 2026.
 
-My research focuses on **Machine Learning** (ML) and **Data Science**. Specifically, I collaborate closely with [Yang Lu (卢杨)](https://jasonyanglu.github.io/) and [Mengke Li (李梦柯)](https://keke921.github.io/) on research topics including: **ML on Heterogeneous Data**, **Unsupervised Federated Learning**, **Non-stationary Data Analysis**. My research interests also inclue Large Language Models (LLMs) and AI for Science (AI4S). I have published {{ site.data.academic_profile.metrics.publications_total.en_phrase }} in journals and conferences, including those in **TPAMI, TCYB, TNNLS, SIGMOD, SIGKDD, NeurIPS, ICML, and AAAI**, to name a few.
+My research focuses on **Machine Learning** (ML) and **Data Science**. Specifically, I collaborate closely with [Yang Lu (卢杨)](https://jasonyanglu.github.io/) and [Mengke Li (李梦柯)](https://keke921.github.io/) on research topics including: **ML on Heterogeneous Data**, **Unsupervised Federated Learning**, **Non-stationary Data Analysis**. My research interests also inclue Large Language Models (LLMs) and AI for Science (AI4S). I have published {{ site.data.academic_profile.metrics.publications_total.en_phrase }} in journals and conferences, including those in **TPAMI, TCYB, TNNLS, SIGMOD, SIGKDD, NeurIPS, ICML, and AAAI**, to name a few. My publications include **two ESI Highly Cited Papers** and **one ESI Hot Paper**.
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -37,16 +37,6 @@ My research focuses on **Machine Learning** (ML) and **Data Science**. Specifica
 
 Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emerging Topics in Computational Intelligence* (TETCI). My academic and teaching contributions have been recognized with the Second Prize of the Guangdong Provincial Science and Technology Progress Award (2023), several Best Paper Awards (ISMIS’18, DOCS’24, 2020 IEEE CIS), and the MOE-Huawei "Intelligent Base" Pioneer Teacher Award.
 
-<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
-  <!--
-  <div style="color: #94a3b8; text-decoration: line-through; font-size: 0.9em; margin-bottom: 8px;">
-    <strong>📢 [2025.09.01]:</strong> Our Open-environment Machine learning Group (OMG) is constantly looking for self-motivated postgraduate and undergraduate students interested in scientific research. (For more details, please refer to <a href="/OMG/" target="_self" style="color: #94a3b8;"><strong>About OMG</strong></a>).
-  </div>
-  -->
-  <div style="color: #0b5394; font-size: 0.95em;">
-    <strong>📢 [2026.04.01]:</strong> The 2026 intake for graduate and undergraduate research students is currently full. Thank you for your interest! <strong>Open-environment Machine learning Group (OMG)</strong> expects to launch the recruitment for 2027 <strong>prospective graduate students</strong> and open 1-2 positions for <strong>undergraduate researchers</strong> in <strong>September 2026</strong>. Please stay tuned for the <a href="/zh-OMG/" target="_self"><strong>latest updates of OMG</strong></a>.
-  </div>
-</div>
 
 <span class='anchor' id="news"></span>
 
@@ -57,7 +47,7 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
 </div>
 {{ site.data.academic_news.markdown }}
 
-<p><a href="/news/" target="_self">All news →</a></p>
+<p>For more news, please click <a href="/news/" target="_self">here</a>.</p>
 
 <span class='anchor' id="publications"></span>
 
@@ -195,14 +185,14 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 **List of Representative Publications**
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+SIGMOD'27</span> 
+[{{ site.data.academic_publications_by_id.C062.title }}](/zh-publications/#paper-C062)<br>
+{{ site.data.academic_publications_by_id.C062.authors_markdown }}
+
+- <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
 [{{ site.data.academic_publications_by_id.C048.title }}]({{ site.data.academic_publications_by_id.C048.link }})<br>
 {{ site.data.academic_publications_by_id.C048.authors_markdown }}
-
-- <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-CVPR'26</span> 
-[{{ site.data.academic_publications_by_id.C050.title }}]({{ site.data.academic_publications_by_id.C050.link }})<br>
-{{ site.data.academic_publications_by_id.C050.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
