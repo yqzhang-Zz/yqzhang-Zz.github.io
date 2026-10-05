@@ -59,24 +59,6 @@ entries:
   publication_ids: []
   text: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
   line: '- *2026/06*: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.'
-- id: news-011
-  date: 2026-06
-  publication_ids:
-  - J027
-  text: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
-  line: '- *2026/06*: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!'
-- id: news-013
-  date: 2026-05
-  publication_ids:
-  - J026
-  text: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!
-  line: '- *2026/05*: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!'
-- id: news-014
-  date: 2026-05
-  publication_ids:
-  - C056
-  text: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!
-  line: '- *2026/05*: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!'
 markdown: '- *2026/09*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as an **ESI Hot Paper** and an **ESI Highly Cited Paper**.
 
   - *2026/09*: 🎉 [One paper](/zh-publications/#paper-C059) accepted to the **Teen Research Track of ICDM 2026**, congratulations to Zheng Zhu and Zexi Tan!
@@ -95,13 +77,7 @@ markdown: '- *2026/09*: 🎉🎉 The paper “[Learning Self-Growth Maps for…]
 
   - *2026/07*: 🎉🎉 The paper “[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)” (TNNLS, 2025) has been selected as a **Highly Cited Paper by the ESI**.
 
-  - *2026/06*: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.
-
-  - *2026/06*: 🎉🎉 [One paper](/zh-publications/#paper-J027) accepted by **TMM**, congratulations to Shu Chen and Prof. Yang Lu!
-
-  - *2026/05*: 🎉 [One survey paper](/zh-publications/#paper-J026) accepted by **TAI**, congratulations to Yunfan Zhang!
-
-  - *2026/05*: 🎉 [One paper](/zh-publications/#paper-C056) accepted to **ECML-PKDD 2026**, congratulations to Chuyao Zhang!'
+  - *2026/06*: 🎉🎉 I won the 2025-2026 **IEEE TETCI Outstanding AE Performance Award**.'
 all_entries:
 - id: news-002
   date: 2026-09
