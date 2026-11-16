@@ -1,11 +1,11 @@
 {
   "owner": "yqzhang-Zz",
   "repository": "yqzhang-Zz.github.io",
-  "fact_revision": "profile-2026-11-15-news1",
+  "fact_revision": "profile-2026-11-16-links1",
   "files": {
     "_data/academic_profile.yml": "5695cb5451cf106d0632deaa9c8dfbdbc02de895f98fe1c804271ce0f3806393",
-    "_data/academic_publications_by_id.yml": "b5bbc3183e9d4a3ea88fca82040ed76c924c5984cd3eee10c0f39990deaaef27",
-    "_data/academic_news.yml": "77ddc6852039db7422b3e282458dfe92dc8541ea4e323acc3c530c070b8e0bb6",
+    "_data/academic_publications_by_id.yml": "5001835a1cd94259975f2c4ecf3a6cb2a0609dbb34696769a142480916e0aacf",
+    "_data/academic_news.yml": "50d3ebe42eb3aae29bff711773f4cf63fae93c7952a6cda20f68f2de297b143d",
     "_pages/about.md": "52409d94d5d67de2d62e2ba087bbb449007996398bf77f3ca98331ede8eee62f",
     "_includes/academic-news-preview.html": "5078d9c335d367a1b265de9a70883a1613c49f468660f5d6719b5f70b5e2dc64",
     "_includes/academic-news.html": "e15cc0412398b97728ac341f78cbb7dec5a35e72800b352a28d4e707dfe55720"
