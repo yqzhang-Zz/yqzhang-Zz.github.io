@@ -45,7 +45,7 @@ Currently, I serve as an **Associate Editor** for the *IEEE Transactions on Emer
   <div style="width: 200px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-{{ site.data.academic_news.markdown }}
+{% include academic-news-preview.html %}
 
 <p>For more news, please click <a href="/news/" target="_self">here</a>.</p>
 
